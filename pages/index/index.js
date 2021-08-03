@@ -21,6 +21,7 @@ Page({
     })
   },
   onLoad() {
+    console.log("hhhhh")
     let that = this;
     getApp().watch(that.watchBack())
 
