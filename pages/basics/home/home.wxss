@@ -1,0 +1,54 @@
+.card {
+  background-color: #ffffff;
+  border-radius: 20rpx;
+  margin: 30rpx;
+}
+
+.card1 {
+  background-color: #ffffff;
+  border-radius: 5000rpx;
+  margin: 30rpx;
+  display: flex;
+  padding: 20rpx;
+}
+
+.center {
+  text-align: center;
+}
+
+.card1 image {
+  width: 64rpx;
+	height: 100rpx;
+	margin-right: 20rpx;
+	border-radius: 5000rpx;
+}
+
+.word-card {
+  background-color: #ffffff;
+  border-radius: 20rpx;
+  margin: 30rpx;
+}
+
+.search-card {
+  border-radius: 20rpx;
+  margin: 30rpx;
+}
+
+.title {
+  color: black;
+  padding: 90rpx 60rpx;
+  font-size: 40rpx;
+  font-weight: 300;
+}
+
+.title1 {
+  color: black;
+  padding: 20rpx;
+  font-size: 30rpx;
+  font-weight: 300;
+}
+
+.scrollPage {
+  height: 100vh;
+}
+
